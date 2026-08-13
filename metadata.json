@@ -1,0 +1,6 @@
+{
+  "name": "Ask My Docs",
+  "description": "Production-quality RAG-based Document Question Answering System with vector search, hybrid search, reranking, citations, grounded generation, and pipeline evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
